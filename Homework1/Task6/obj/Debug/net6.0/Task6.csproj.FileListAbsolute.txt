@@ -1,0 +1,15 @@
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/bin/Debug/net6.0/Task6
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/bin/Debug/net6.0/Task6.deps.json
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/bin/Debug/net6.0/Task6.runtimeconfig.json
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/bin/Debug/net6.0/Task6.dll
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/bin/Debug/net6.0/Task6.pdb
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/obj/Debug/net6.0/Task6.csproj.AssemblyReference.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/obj/Debug/net6.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/obj/Debug/net6.0/Task6.AssemblyInfoInputs.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/obj/Debug/net6.0/Task6.AssemblyInfo.cs
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/obj/Debug/net6.0/Task6.csproj.CoreCompileInputs.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/obj/Debug/net6.0/Task6.dll
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/obj/Debug/net6.0/refint/Task6.dll
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/obj/Debug/net6.0/Task6.pdb
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/obj/Debug/net6.0/Task6.genruntimeconfig.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework1/Task6/obj/Debug/net6.0/ref/Task6.dll
