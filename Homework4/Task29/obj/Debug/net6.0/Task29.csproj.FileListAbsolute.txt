@@ -1,0 +1,15 @@
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/obj/Debug/net6.0/Task29.csproj.AssemblyReference.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/obj/Debug/net6.0/Task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/obj/Debug/net6.0/Task29.AssemblyInfoInputs.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/obj/Debug/net6.0/Task29.AssemblyInfo.cs
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/obj/Debug/net6.0/Task29.csproj.CoreCompileInputs.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/bin/Debug/net6.0/Task29
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/bin/Debug/net6.0/Task29.deps.json
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/bin/Debug/net6.0/Task29.runtimeconfig.json
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/bin/Debug/net6.0/Task29.dll
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/bin/Debug/net6.0/Task29.pdb
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/obj/Debug/net6.0/Task29.dll
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/obj/Debug/net6.0/refint/Task29.dll
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/obj/Debug/net6.0/Task29.pdb
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/obj/Debug/net6.0/Task29.genruntimeconfig.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework4/Task29/obj/Debug/net6.0/ref/Task29.dll
