@@ -1,0 +1,15 @@
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/bin/Debug/net7.0/Task43
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/bin/Debug/net7.0/Task43.deps.json
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/bin/Debug/net7.0/Task43.runtimeconfig.json
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/bin/Debug/net7.0/Task43.dll
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/bin/Debug/net7.0/Task43.pdb
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/obj/Debug/net7.0/Task43.csproj.AssemblyReference.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/obj/Debug/net7.0/Task43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/obj/Debug/net7.0/Task43.AssemblyInfoInputs.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/obj/Debug/net7.0/Task43.AssemblyInfo.cs
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/obj/Debug/net7.0/Task43.csproj.CoreCompileInputs.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/obj/Debug/net7.0/Task43.dll
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/obj/Debug/net7.0/refint/Task43.dll
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/obj/Debug/net7.0/Task43.pdb
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/obj/Debug/net7.0/Task43.genruntimeconfig.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/obj/Debug/net7.0/ref/Task43.dll
