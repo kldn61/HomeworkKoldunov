@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/Task43.csproj",
+      "projectUniqueName": "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework6/Task43/Task43.csproj",
       "projectName": "Task43",
-      "projectPath": "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/Task43.csproj",
+      "projectPath": "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework6/Task43/Task43.csproj",
       "packagesPath": "/Users/vladislavkoldunov/.nuget/packages/",
-      "outputPath": "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task43/obj/",
+      "outputPath": "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework6/Task43/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vladislavkoldunov/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task41/Task41.csproj": {}
+    "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework6/Task41/Task41.csproj": {}
   },
   "projects": {
-    "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task41/Task41.csproj": {
+    "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework6/Task41/Task41.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task41/Task41.csproj",
+        "projectUniqueName": "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework6/Task41/Task41.csproj",
         "projectName": "Task41",
-        "projectPath": "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task41/Task41.csproj",
+        "projectPath": "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework6/Task41/Task41.csproj",
         "packagesPath": "/Users/vladislavkoldunov/.nuget/packages/",
-        "outputPath": "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homewokr6/Task41/obj/",
+        "outputPath": "/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework6/Task41/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vladislavkoldunov/.nuget/NuGet/NuGet.Config"
