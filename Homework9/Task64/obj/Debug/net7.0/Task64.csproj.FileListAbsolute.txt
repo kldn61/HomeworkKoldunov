@@ -1,0 +1,15 @@
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/bin/Debug/net7.0/Task64
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/bin/Debug/net7.0/Task64.deps.json
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/bin/Debug/net7.0/Task64.runtimeconfig.json
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/bin/Debug/net7.0/Task64.dll
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/bin/Debug/net7.0/Task64.pdb
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/obj/Debug/net7.0/Task64.csproj.AssemblyReference.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/obj/Debug/net7.0/Task64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/obj/Debug/net7.0/Task64.AssemblyInfoInputs.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/obj/Debug/net7.0/Task64.AssemblyInfo.cs
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/obj/Debug/net7.0/Task64.csproj.CoreCompileInputs.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/obj/Debug/net7.0/Task64.dll
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/obj/Debug/net7.0/refint/Task64.dll
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/obj/Debug/net7.0/Task64.pdb
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/obj/Debug/net7.0/Task64.genruntimeconfig.cache
+/Users/vladislavkoldunov/Desktop/РАЗРАБОТЧИК/C#/Hometask/HomeworkKoldunov/Homework9/Task64/obj/Debug/net7.0/ref/Task64.dll
